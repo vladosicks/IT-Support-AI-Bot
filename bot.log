@@ -1,0 +1,15 @@
+2026-06-03 20:11:50,923 | INFO | Бот успішно запущений
+2026-06-03 20:11:50,924 | INFO | Start polling
+2026-06-03 20:11:50,943 | INFO | Run polling for bot @it_support_ai_diploma_bot id=8776041027 - 'IT Support AI Bot'
+2026-06-03 20:13:01,680 | INFO | Update id=915747611 is handled. Duration 39 ms by bot id=8776041027
+2026-06-03 20:17:11,325 | INFO | Користувач 584629538: Що таке DNS?
+2026-06-03 20:17:15,183 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 20:17:15,225 | INFO | Відповідь сформована успішно
+2026-06-03 20:17:15,280 | INFO | Update id=915747612 is handled. Duration 3955 ms by bot id=8776041027
+2026-06-03 20:17:16,979 | INFO | Користувач 584629538: Поясни SQL JOIN
+2026-06-03 20:17:21,783 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 20:17:21,792 | INFO | Відповідь сформована успішно
+2026-06-03 20:17:21,846 | INFO | Update id=915747613 is handled. Duration 4867 ms by bot id=8776041027
+2026-06-03 20:18:54,479 | WARNING | Received SIGINT signal
+2026-06-03 20:18:54,480 | INFO | Polling stopped for bot @it_support_ai_diploma_bot id=8776041027 - 'IT Support AI Bot'
+2026-06-03 20:18:54,480 | INFO | Polling stopped
